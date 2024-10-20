@@ -1,7 +1,7 @@
 # Expense Tracker CLI
 
 ## Description
-The Expense Tracker CLI is a Python-based command-line tool designed to help users track their expenses. It leverages the `rich` library to provide a user-friendly interface for adding, viewing, and managing expenses. The tool supports various features such as categorizing expenses, generating reports, and more.
+The Expense Tracker CLI is a nodejs-based command-line tool designed to help users track their expenses. It leverages the `rich` library to provide a user-friendly interface for adding, viewing, and managing expenses. The tool supports various features such as categorizing expenses, generating reports, and more.
 
 It is inspired from the [Expense Tracker](https://roadmap.sh/projects/expense-tracker) project featured in the [Backend Roadmap](https://roadmap.sh/backend) from [roadmap.sh](https://roadmap.sh/).
 
