@@ -1,0 +1,29 @@
+{
+  "name": "expense-tracker",
+  "version": "1.0.0",
+  "description": "CLI to track expenses",
+  "main": "bin/index.js",
+  "bin": {
+    "expense-tracker": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/synchoz/expense-tracker.git"
+  },
+  "keywords": [
+    "CLI",
+    "nodejs"
+  ],
+  "author": "dima varo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/synchoz/expense-tracker/issues"
+  },
+  "homepage": "https://github.com/synchoz/expense-tracker#readme",
+  "dependencies": {
+    "commander": "^12.1.0"
+  }
+}
