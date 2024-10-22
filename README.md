@@ -8,6 +8,7 @@ It is inspired from the [Expense Tracker](https://roadmap.sh/projects/expense-tr
 ## Features
 - **Add Expenses**: Easily add new expenses with details such as amount, category, and description.
 - **Delete Expenses**: Delete an expense based on its ID.
+- **Update Expenses**: Update an expense description or amount based on its ID.
 - **View Expenses**: Display a list of all recorded expenses.
 
 ## Prerequisites
